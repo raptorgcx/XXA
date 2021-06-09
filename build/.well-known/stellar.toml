@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GDUX77SWF6UVHIXSCLV6YWEHFMMMVGAS2O2ZYGQIU3FV2NEM6GZ5SNVX",
-"GBOXFFELBZXTBNP3FP6DQNBP2VY3NQX72XTHSKO2QITGWEFNMTJXTWEK"
+"GA6LVWK2RXDQB7OBUJWB2RXKYJTYTA3KJTH242RHHTFEO3CA4GEY3KQG"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XRP"
-ORG_TWITTER="@XRP"
-ORG_LOGO="https://i.ibb.co/TBWhzVz/d89d14e67a5a828f48b26b6207571810.png"
-ORG_OFFICIAL_EMAIL="XRP@tutanota.com"
+ORG_NAME="TWT"
+ORG_TWITTER="@TWT"
+ORG_LOGO="https://i.ibb.co/myrkYxZ/trust-wallet-token.png"
+ORG_OFFICIAL_EMAIL="twtexchange@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XRP"
-issuer="GBOXFFELBZXTBNP3FP6DQNBP2VY3NQX72XTHSKO2QITGWEFNMTJXTWEK"
+code="TWT"
+issuer="GA6LVWK2RXDQB7OBUJWB2RXKYJTYTA3KJTH242RHHTFEO3CA4GEY3KQG"
 anchor_asset="false"
-name="Ripple (XRP)"
-desc=" 1 XRP token entitles you to receive 1 XRP on the Ripple blockchain. XRP is the cryptocurrency used by the Ripple payment network. Built for enterprise use, XRP aims to be a fast, cost-efficient cryptocurrency for cross-border payments. "
-conditions=" 1 XRP TOKEN ENTITLES YOU TO RECEIVE ON 1 XRP ON THE RIPPLE BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON xrpexchange@tutanota.com "
-image="https://i.ibb.co/ScQxBkR/db7221672fc6b447f7af2b1f61b140ef.png"
-fixed_number=10000000
-max_number=10000000
+name="Trust Wallet Token"
+desc=" 1 TWT Token entitles you to receive 1 TWT on the Trust blockchain. Trust Wallet is a crypto wallet that allows users to buy, store, exchange & earn crypto. The Trust Wallet Token (TWT) is the native token of Trust Wallet and is available on the BEP-2 and BEP-20 token standards. "
+conditions=" 1 TWT TOKEN ENTITLES YOU TO RECEIVE ON 1 TWT ON THE TRUST BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON twtexchange@tutanota.com "
+image="https://i.ibb.co/myrkYxZ/trust-wallet-token.png"
+fixed_number=100000000
+max_number=100000000
 is_unlimited=false
-#XRP was issued using the open and inclusive Stellar blockchain network.
+#twt was issued using the open and inclusive Stellar blockchain network.
