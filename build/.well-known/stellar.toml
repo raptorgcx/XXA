@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GDUX77SWF6UVHIXSCLV6YWEHFMMMVGAS2O2ZYGQIU3FV2NEM6GZ5SNVX",
-"GA6LVWK2RXDQB7OBUJWB2RXKYJTYTA3KJTH242RHHTFEO3CA4GEY3KQG"
+"GAA5HF374AUDNZSZNCEMW755U5VALQVPW4HCV5NEAT7RDDD74RTWXLGL"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="TWT"
-ORG_TWITTER="@TWT"
-ORG_LOGO="https://i.ibb.co/myrkYxZ/trust-wallet-token.png"
-ORG_OFFICIAL_EMAIL="twtexchange@tutanota.com"
+ORG_NAME="CAKE"
+ORG_TWITTER="@CAKE"
+ORG_LOGO="https://i.ibb.co/6s3tstz/71247426.png"
+ORG_OFFICIAL_EMAIL="cakeexchange@tutanota.com"
 
 
 [[CURRENCIES]]
-code="TWT"
-issuer="GA6LVWK2RXDQB7OBUJWB2RXKYJTYTA3KJTH242RHHTFEO3CA4GEY3KQG"
+code="CAKE"
+issuer="GAA5HF374AUDNZSZNCEMW755U5VALQVPW4HCV5NEAT7RDDD74RTWXLGL"
 anchor_asset="false"
-name="Trust Wallet Token"
-desc=" 1 TWT Token entitles you to receive 1 TWT on the Trust blockchain. Trust Wallet is a crypto wallet that allows users to buy, store, exchange & earn crypto. The Trust Wallet Token (TWT) is the native token of Trust Wallet and is available on the BEP-2 and BEP-20 token standards. "
-conditions=" 1 TWT TOKEN ENTITLES YOU TO RECEIVE ON 1 TWT ON THE TRUST BLOCKCHAIN. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON twtexchange@tutanota.com "
-image="https://i.ibb.co/myrkYxZ/trust-wallet-token.png"
-fixed_number=100000000
-max_number=100000000
+name="PancakeSwap"
+desc=" 1 CAKE token entitles you to receive 1 CAKE on the PancakeSwap. PancakeSwap is a decentralized exchange built on Binance Smart Chain, a fast and inexpensive alternative to Ethereum. Much like the celebrated Uniswap DeFi AMM protocol running on Ethereum, PancakeSwap enables users to swap between cryptocurrency assets by tapping into user-generated liquidity pools. "
+conditions=" 1 CAKE TOKEN ENTITLES YOU TO RECEIVE ON 1 CAKE ON THE PANCAKESWAP. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON cakeexchange@tutanota.com "
+image="https://i.ibb.co/6s3tstz/71247426.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#twt was issued using the open and inclusive Stellar blockchain network.
+#CAKE was issued using the open and inclusive Stellar blockchain network.
