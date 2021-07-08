@@ -1,27 +1,26 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDUX77SWF6UVHIXSCLV6YWEHFMMMVGAS2O2ZYGQIU3FV2NEM6GZ5SNVX",
-"GAA5HF374AUDNZSZNCEMW755U5VALQVPW4HCV5NEAT7RDDD74RTWXLGL"
+"GDLS4VTJRHGWWCERMWQCEDRAW6I3UX26D7RRCDCAKFY6NE536GNLPLNT"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="CAKE"
-ORG_TWITTER="@CAKE"
-ORG_LOGO="https://i.ibb.co/6s3tstz/71247426.png"
+ORG_NAME="XXA"
+ORG_TWITTER="XXA"
+ORG_LOGO="https://i.ibb.co/XLM7KDg/index.jpg"
 ORG_OFFICIAL_EMAIL="cakeexchange@tutanota.com"
 
 
 [[CURRENCIES]]
-code="CAKE"
-issuer="GAA5HF374AUDNZSZNCEMW755U5VALQVPW4HCV5NEAT7RDDD74RTWXLGL"
+code="XXA"
+issuer="GDLS4VTJRHGWWCERMWQCEDRAW6I3UX26D7RRCDCAKFY6NE536GNLPLNT"
 anchor_asset="false"
-name="PancakeSwap"
-desc=" 1 CAKE token entitles you to receive 1 CAKE on the PancakeSwap. PancakeSwap is a decentralized exchange built on Binance Smart Chain, a fast and inexpensive alternative to Ethereum. Much like the celebrated Uniswap DeFi AMM protocol running on Ethereum, PancakeSwap enables users to swap between cryptocurrency assets by tapping into user-generated liquidity pools. "
-conditions=" 1 CAKE TOKEN ENTITLES YOU TO RECEIVE ON 1 CAKE ON THE PANCAKESWAP. WITHDRAWING IS IN MANUAL MODE SO PLEASE CONTACT US ON cakeexchange@tutanota.com "
-image="https://i.ibb.co/6s3tstz/71247426.png"
-fixed_number=10000000
-max_number=10000000
+name="IXINIUM"
+desc=" Ixinium XXA is a digital token native to Stellar blockchain. Ixinium XXA is backed with gold, silver, palladium, and platinum. Cryptocurrency XXA is backed by the Ixinium Foundation's precious metal holdings, blockchain transparency, and auditable transactions. "
+conditions=" Total supply is 540 million. 26,460,000 XXA's are segregated for five (5) years. Up to 75% of the company's revenue is due to the additional purchases of precious metals, which are generated through market exchange due to the cost of the Ixinium XXA. As a result, the usege of Ixinium XXA is constantly increasing the amount of physical precious metals. As precious metals are used as collateral for Ixinium XXA, the total market value of the Ixinium Foundation collateral follows the daily market price of the precious metals"
+image="https://i.ibb.co/XLM7KDg/index.jpg"
+fixed_number=500000000
+max_number=500000000
 is_unlimited=false
-#CAKE was issued using the open and inclusive Stellar blockchain network.
+#XXA was issued using the open and inclusive Stellar blockchain network.
